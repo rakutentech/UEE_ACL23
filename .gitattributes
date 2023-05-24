@@ -1,6 +1,0 @@
-data/uee_dataset/dev_uee_221212_ann.json filter=lfs diff=lfs merge=lfs -text
-data/uee_dataset/dev_uee_221212_txt.json filter=lfs diff=lfs merge=lfs -text
-data/uee_dataset/test_uee_221212_ann.json filter=lfs diff=lfs merge=lfs -text
-data/uee_dataset/test_uee_221212_txt.json filter=lfs diff=lfs merge=lfs -text
-data/uee_dataset/train_uee_221212_ann.json filter=lfs diff=lfs merge=lfs -text
-data/uee_dataset/train_uee_221212_txt.json filter=lfs diff=lfs merge=lfs -text
