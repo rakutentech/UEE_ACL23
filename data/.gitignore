@@ -1,5 +1,6 @@
 !.gitignore
-train_uee_221212.json
-dev_uee_221212.json
-test_uee_221212.json
+uee_dataset/train_uee_221212.json
+uee_dataset/dev_uee_221212.json
+uee_dataset/test_uee_221212.json
+uee_dataset/train_uee_221212_txt.json*
 jsnli*
