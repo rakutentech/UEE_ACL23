@@ -27,7 +27,7 @@ of the training, development, and test set of the UEE dataset.
 
 - `README.md`: This file.
 - `train_uee_221212_ann.json`: The annotation part of the training set.
-- `train_uee_221212_txt.json`: The text part of the training set.
+- `train_uee_221212_txt_{00,01,02,03}.json`: The text part of the training set (split into 4 parts). 
 - `dev_uee_221212_ann.json`: The annotation part of the development set.
 - `dev_uee_221212_txt.json`: The text part of the development set.
 - `test_uee_221212_ann.json`: The annotation part of the test set.

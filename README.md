@@ -30,8 +30,8 @@ We need two datasets:
 
 #### The UEE Dataset
 
-1. Follow the instruction in `data/uee_dataset/README.md` to prepare files.
-2. Make sure you have the following files in `data/uee_dataset/`:
+1. Follow the instruction in [`data/uee_dataset/README.md`](data/uee_dataset/README.md) to prepare files.
+2. Make sure you have the following files in [`data/uee_dataset/`](data/uee_dataset/):
     - `train_uee_221212.json`
     - `dev_uee_221212.json`
     - `test_uee_221212.json`
