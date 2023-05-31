@@ -99,7 +99,7 @@ For the UEE dataset, refer to [`LICENSE`](data/uee_dataset/LICENSE) in [`data/ue
 
 ## Citation
 
-If you find this repository helpful, feel free to cite our publication "*Hunt for Buried Treasures: Extracting Unclaimed Embodiments from Patent Specifications*.":
+If you find this repository helpful, feel free to cite our publication "*Hunt for Buried Treasures: Extracting Unclaimed Embodiments from Patent Specifications*":
 
 ```bibtex 
 @inproceedings{uee-acl2023-industry,
