@@ -102,12 +102,19 @@ For the UEE dataset, refer to [`LICENSE`](data/uee_dataset/LICENSE) in [`data/ue
 If you find this repository helpful, feel free to cite our publication "*Hunt for Buried Treasures: Extracting Unclaimed Embodiments from Patent Specifications*":
 
 ```bibtex 
-@inproceedings{uee-acl2023-industry,
+@inproceedings{hashimoto-etal-2023-hunt,
     title = "Hunt for Buried Treasures: Extracting Unclaimed Embodiments from Patent Specifications",
-    author = "Chikara Hashimoto and Gautam Kumar and Shuichiro Hashimoto and Jun Suzuki",
-    booktitle = "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics, Industry Track",
-    month = "7",
+    author = "Hashimoto, Chikara  and
+      Kumar, Gautam  and
+      Hashimoto, Shuichiro  and
+      Suzuki, Jun",
+    booktitle = "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 5: Industry Track)",
+    month = jul,
     year = "2023",
+    address = "Toronto, Canada",
     publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.acl-industry.3",
+    pages = "25--36",
+    abstract = "Patent applicants write patent specifications that describe embodiments of inventions. Some embodiments are claimed for a patent, while others may be unclaimed due to strategic considerations. Unclaimed embodiments may be extracted by applicants later and claimed in continuing applications to gain advantages over competitors. Despite being essential for corporate intellectual property (IP) strategies, unclaimed embodiment extraction is conducted manually, and little research has been conducted on its automation. This paper presents a novel task of unclaimed embodiment extraction (UEE)and a novel dataset for the task. Our experiments with Transformer-based models demonstrated that the task was challenging as it required conducting natural language inference on patent specifications, which consisted of technical, long, syntactically and semantically involved sentences. We release the dataset and code to foster this new area of research.",
 }
 ```
